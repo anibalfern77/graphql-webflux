@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/graphql-movie-app/graphql-movie-app.iml" filepath="$PROJECT_DIR$/graphql-movie-app/graphql-movie-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphql-playground/graphql-playground.iml" filepath="$PROJECT_DIR$/graphql-playground/graphql-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/graphql-webflux.iml" filepath="$PROJECT_DIR$/.idea/graphql-webflux.iml" />
+    </modules>
+  </component>
+</project>
